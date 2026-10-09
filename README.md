@@ -2,8 +2,7 @@
 
 > A web-based canteen ordering system designed to eliminate long queues and streamline cafeteria operations for students, staff, and shopkeepers.
 
-**Author:** Ladani Mahek B.  
-**Enrollment No:** 24SE02CS091  
+**Author:** Ladani Mahek B.   
 **Class:** CSE-5B (Batch-A)  
 
 ---
